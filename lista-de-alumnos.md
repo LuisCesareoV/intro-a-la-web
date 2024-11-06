@@ -6,4 +6,10 @@
 1. Marcos
 1. Rafael 
 1. Mariela
-1. Rafael 
+
+## Segunda Línea
+
+- Aislyn 
+- Emmanuel 
+- Manuel 
+- Ernesto 

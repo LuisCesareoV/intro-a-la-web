@@ -6,6 +6,7 @@
 1. Marcos
 1. Rafael 
 1. Mariela
+1. Luis Antonio
 
 ## Segunda Línea
 
@@ -13,3 +14,5 @@
 - Emmanuel 
 - Manuel 
 - Ernesto 
+- Mario Juan 
+- Mario Hugo 
